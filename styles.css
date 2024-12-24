@@ -83,4 +83,16 @@ nav li:first-child{
 
 .text{
     font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+/* blog text styling */
+
+.blogHeading{
+    font-style: normal;
+    border: "solid";
+    border-width: 10px;
+    border-style: groove;
+    border-radius: 300px;
+    border-color: rgb(106, 183, 255);
 }
